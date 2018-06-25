@@ -9,7 +9,7 @@
     "icons": [
       {
         "src": "/test/Desert.png",
-        "sizes": "144x144",
+        "sizes": "384x384",
         "type": "image/png"
       }
     ]
